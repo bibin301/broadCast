@@ -1,0 +1,21 @@
+
+
+ng-click="functionName(ng repeat reference variable.selectId)
+
+
+ng-click="myTicket(list.id)"
+
+
+$scope.myticket =function(id){
+$location.path("url" +id);
+
+
+app.controller('ctlName',function($stateParams){
+var USRID = $stateParams.id;
+
+
+
+}
+
+
+url:"myticket/:id"
